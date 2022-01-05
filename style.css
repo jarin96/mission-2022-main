@@ -5,18 +5,27 @@ body{
 }
 h1{
     font-size: 50px;
-    font-display: 50px;
+    font-weight: 50px;
+}
+h2{
+    font-size: 20px;
 }
 .blue-color{
     color: blue;
     font-style: italic;
+    
 }
-section{
+.flexible-container{
     display: flex;
+    margin-bottom: 150px;
+}
+.flexible-container img{
+    width: 40%;
 }
 .half-width{
     width: 50%;
-    padding-left: 15%;
+    padding-left: 5%;
+    
 }
 .half-width img{
     width: 90%;
@@ -32,4 +41,26 @@ section{
 .style-color{
     text-align: justify;
     padding-left: 400px;
+}
+.mission{
+    padding-left: 35%;
+}
+.experience-item{
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 40px gray;
+  
+}
+#web-dev-ex1{
+    background-color: lightgrey;
+    
+}
+#web-dev-ex2{
+    background-color: lightcyan;
+}
+#web-dev-ex2{
+    background-color: lightgoldenrodyellow;
 }
