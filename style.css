@@ -6,6 +6,8 @@ body{
 h1{
     font-size: 50px;
     font-weight: 50px;
+    
+    
 }
 h2{
     font-size: 20px;
@@ -18,6 +20,7 @@ h2{
 .flexible-container{
     display: flex;
     margin-bottom: 150px;
+    
 }
 .flexible-container img{
     width: 40%;
@@ -28,7 +31,8 @@ h2{
     
 }
 .half-width img{
-    width: 90%;
+    width: 80%;
+    
 }
 .link-button{
     padding: 10px 40px;
@@ -64,3 +68,14 @@ h2{
 #web-dev-ex2{
     background-color: lightgoldenrodyellow;
 }
+.text{
+    text-align: center;
+}
+.web-application{
+    text-align: center;
+}
+.dream-big img{
+    padding-left: 10px 10px;
+    image-resolution: center;
+}
+
