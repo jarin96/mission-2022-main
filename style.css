@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
+    background-color: lemonchiffon;
     
 }
 h1{
@@ -15,6 +16,8 @@ h2{
 .blue-color{
     color: blue;
     font-style: italic;
+
+    
     
 }
 .flexible-container{
@@ -85,5 +88,43 @@ h2{
 }
 .stay-focused{
     padding-left: 35%;
+}
+#web-dream{
+    background-image: url(images/shapes/shape-3.png);
+    width: 50%;
+    background-repeat: no-repeat;
+    background-position-y: left;
+    padding-left:10px 100px ;
+    padding-top: 15px 10px;
+   
+    
+    
+
+}
+#web-dream img{
+    width: 80%;
+    border-radius: 25px;
+    padding-left: 10px;
+    margin: 0px;
+    
+}
+#dev-dream {
+    background-image: url(images/shapes/dream-bg.png);
+    width: 50%;
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position:  bottom right;
+       
+}
+footer p{
+    text-align: center;
+}
+footer h2{
+    text-align: center;
+    color: blue;
+    font-style: italic;
+    font-weight: 150px;
+    font-family: serif;
+    
 }
 
