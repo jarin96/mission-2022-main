@@ -6,9 +6,12 @@ body{
 }
 h1{
     font-size: 50px;
-    font-weight: 50px;
-    
-    
+    font-weight: 50px;   
+}
+.side{
+    border-left: 5px solid blue;
+    border-width: 4px;
+
 }
 h2{
     font-size: 20px;
@@ -126,16 +129,22 @@ h2{
 }
 footer p{
     text-align: center;
+    color: white;
+
     
 }
 footer h2{
     text-align: center;
-    color: blue;
+    color: white;
     font-style: italic;
     font-weight: 150;
     font-family: serif;
     font-size: 30px;
+    background-color: black;
     
+}
+.section{
+    background-color: black;
 }
 #global-com{
     background-image: url(images/shapes/shape-1.png);
@@ -151,6 +160,10 @@ footer h2{
 }
     
 .footer-c{
-    background-color: rgb(147, 187, 243);
+    color: red;
 }
+.f-color{
+    background-color: black;
+}
+
 
