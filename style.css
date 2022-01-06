@@ -72,10 +72,18 @@ h2{
     text-align: center;
 }
 .web-application{
-    text-align: center;
+    
+    font-size: 50px;
+    font-weight: 50px;
+    padding-left: 35px;
+    margin-right: 150px;
 }
 .dream-big img{
     padding-left: 10px 10px;
     image-resolution: center;
+    
+}
+.stay-focused{
+    padding-left: 35%;
 }
 
